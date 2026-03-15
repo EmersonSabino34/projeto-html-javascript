@@ -7,6 +7,5 @@ colar comandos gerados do navegador
 #### 2 Salvando no git 
 
 git add .
-
 git commit -m updated
 git push
